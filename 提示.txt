@@ -1,0 +1,4 @@
+启动指令：npm run serve
+teacher 是教师界面
+about 是学生界面
+啥都不填就是管理员界面
